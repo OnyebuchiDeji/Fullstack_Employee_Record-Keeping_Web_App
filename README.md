@@ -45,11 +45,11 @@ to help against the Same Origin Policy.
 Finished: 14-05-2024
 
 ###	Screenshots
-![1](./scrn_shots/scrn_shot (1).png)
-![2](./scrn_shots/scrn_shot (2).png)
-![3](./scrn_shots/scrn_shot (3).png)
-![4](./scrn_shots/scrn_shot (4).png)
-![5](./scrn_shots/scrn_shot (5).png)
-![6](./scrn_shots/scrn_shot (6).png)
-![7](./scrn_shots/scrn_shot (7).png)
-![8](./scrn_shots/scrn_shot (8).png)
+![1](./scrn_shots/scrn_shot_1.png)
+![2](./scrn_shots/scrn_shot_2.png)
+![3](./scrn_shots/scrn_shot_3.png)
+![4](./scrn_shots/scrn_shot_4.png)
+![5](./scrn_shots/scrn_shot_5.png)
+![6](./scrn_shots/scrn_shot_6.png)
+![7](./scrn_shots/scrn_shot_7.png)
+![8](./scrn_shots/scrn_shot_8.png)
